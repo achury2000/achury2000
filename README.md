@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-🎓 Soy estudiante de Analicis y Desarrollo de Software y me apasiona seguir aprendiendo cada día más sobre programación.
+🎓 Soy estudiante de Analisis y Desarrollo de Software y me apasiona seguir aprendiendo cada día más sobre programación.
 💻 Tengo conocimientos en desarrollo front-end y back-end, lo que me permite comprender y aportar en todo el ciclo de creación de aplicaciones.
 ✨ Me motiva explorar nuevas ideas, crear proyectos creativos y productivos, y transformar lo que aprendo en soluciones útiles.
 ☕ Además, disfruto de los pequeños detalles que acompañan mi proceso, como un buen café y la inspiración que surge en los momentos de calma.
